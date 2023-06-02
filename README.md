@@ -1,1 +1,1 @@
-Mikolaj, a full-stack developer working mostly within Microsoft tech stack
+Full-stack developer specialized, but not limited to Microsoft tech stack
